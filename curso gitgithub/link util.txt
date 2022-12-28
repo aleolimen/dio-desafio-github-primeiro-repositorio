@@ -1,0 +1,2 @@
+link para estudo do markdown
+https://www.markdownguide.org/getting-started/
